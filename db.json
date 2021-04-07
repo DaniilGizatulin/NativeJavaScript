@@ -22,16 +22,5 @@
       "price": 21
     }
   ],
-  "requests": [
-    {
-      "name": "Lolitta",
-      "phone": "+85005005050",
-      "id": 1
-    },
-    {
-      "name": "Daniil",
-      "phone": "+380507156056",
-      "id": 5
-    }
-  ]
+  "requests": []
 }
