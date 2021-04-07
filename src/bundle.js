@@ -64,7 +64,7 @@ function calc() {
 
   function calcTotal() {
     if (!sex || !height || !weight || !age || !ratio) {
-      result.textContent = '____';
+      result.textContent = ' ';
       return;
     }
 
@@ -6969,7 +6969,7 @@ window.addEventListener('DOMContentLoaded', function () {
   }, 300000);
   (0,_modules_tabs__WEBPACK_IMPORTED_MODULE_2__.default)('.tabheader__item', '.tabcontent', '.tabheader__items', 'tabheader__item_active');
   (0,_modules_modal__WEBPACK_IMPORTED_MODULE_3__.default)('[data-modal]', '.modal', modalTimerId);
-  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_4__.default)('.timer', '2021-04-13');
+  (0,_modules_timer__WEBPACK_IMPORTED_MODULE_4__.default)('.timer', '2021-06-01');
   (0,_modules_calc__WEBPACK_IMPORTED_MODULE_5__.default)();
   (0,_modules_cards__WEBPACK_IMPORTED_MODULE_6__.default)();
   (0,_modules_forms__WEBPACK_IMPORTED_MODULE_7__.default)('form', modalTimerId);

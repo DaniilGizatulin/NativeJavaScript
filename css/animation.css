@@ -1,0 +1,11 @@
+@keyframes colorMessage {
+   0% {
+      background: rgba(221, 147, 51, 0.8);
+   }
+   50% {
+      background: rgba(226, 207, 37, 0.8);
+   }
+   100% {
+      background: rgba(71, 184, 49, 0.801);
+   }
+}
